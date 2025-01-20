@@ -54,8 +54,7 @@ class Solution
 end
 
 if __FILE__ == $0
-  klasa = Solution.new
-  klasa.programLogic
+  Solution.new.programLogic
 end
 
 
